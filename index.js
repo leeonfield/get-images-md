@@ -11,6 +11,7 @@ function getAllImg(markdown) {
       nodeList.push(node.destination)
     }
   }
+  nodeList = [...new Set(nodeList)]
 
   return nodeList
 }

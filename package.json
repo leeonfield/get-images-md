@@ -1,6 +1,6 @@
 {
   "name": "md-imgs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get all images node in markdown",
   "main": "index.js",
   "scripts": {
