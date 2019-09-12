@@ -1,0 +1,26 @@
+{
+  "name": "get-images-md",
+  "version": "1.0.0",
+  "description": "get all images node in markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeonfield/get-images-md.git"
+  },
+  "keywords": [
+    "markdown",
+    "image"
+  ],
+  "author": "leeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeonfield/get-images-md/issues"
+  },
+  "homepage": "https://github.com/leeonfield/get-images-md#readme",
+  "dependencies": {
+    "commonmark": "^0.29.0"
+  }
+}
